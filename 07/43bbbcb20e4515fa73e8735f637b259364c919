@@ -1,0 +1,24 @@
+tests/DotPulsar.Tests/Internal/ProcessReconnectTests.cs
+  s_853ffe3195f257::t_50caded23eac91 113-158
+src/DotPulsar/Internal/Abstractions/Process.cs
+  s_853ffe3195f257::t_3c6d8fca63cab0 117-121
+  s_853ffe3195f257::t_63d663f10ae66d 60,62-93,95-96
+  s_853ffe3195f257::t_90550bcb00b3d2 44-48
+  s_853ffe3195f257::t_e3cc38c1f1a071 22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "0743bbbcb20e4515fa73e8735f637b259364c919",
+  "prompts": {},
+  "sessions": {
+    "s_853ffe3195f257": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b286b1c2-5016-4de1-b410-7416b8d856ef",
+        "model": "claude-fable-5"
+      },
+      "human_author": "AmiradelBeyg <amiradel21@gmail.com>"
+    }
+  }
+}
