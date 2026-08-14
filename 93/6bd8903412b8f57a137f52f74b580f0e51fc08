@@ -1,0 +1,30 @@
+src/DotPulsar/Internal/Abstractions/Process.cs
+  s_853ffe3195f257::t_b2eeab2aab2007 111-113
+  s_853ffe3195f257::t_c643cffb970256 22,93-105,114
+  s_853ffe3195f257::t_77782ef0f10d4b 109-110
+  s_853ffe3195f257::t_1d976f45a50d79 106-108
+tests/DotPulsar.Tests/Internal/ProcessReconnectTests.cs
+  s_853ffe3195f257::t_1344ac53e31eb4 1-298
+src/DotPulsar/Internal/ProducerProcess.cs
+  s_853ffe3195f257::t_29a26c23647f8c 59
+src/DotPulsar/Internal/ReaderProcess.cs
+  s_853ffe3195f257::t_23651e23229329 57
+src/DotPulsar/Internal/ConsumerProcess.cs
+  s_853ffe3195f257::t_29e1996db16dbd 66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "936bd8903412b8f57a137f52f74b580f0e51fc08",
+  "prompts": {},
+  "sessions": {
+    "s_853ffe3195f257": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b286b1c2-5016-4de1-b410-7416b8d856ef",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Amir Beygzadeh <amiradelbeygzadeh@geotab.com>"
+    }
+  }
+}
