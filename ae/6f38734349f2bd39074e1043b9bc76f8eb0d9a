@@ -1,0 +1,24 @@
+src/DotPulsar/Internal/Abstractions/Process.cs
+  s_853ffe3195f257::t_63d663f10ae66d 60,62-93,95-96
+  s_853ffe3195f257::t_e3cc38c1f1a071 22
+  s_853ffe3195f257::t_90550bcb00b3d2 44-48
+  s_853ffe3195f257::t_3c6d8fca63cab0 117-121
+tests/DotPulsar.Tests/Internal/ProcessReconnectTests.cs
+  s_853ffe3195f257::t_50caded23eac91 113-158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ae6f38734349f2bd39074e1043b9bc76f8eb0d9a",
+  "prompts": {},
+  "sessions": {
+    "s_853ffe3195f257": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b286b1c2-5016-4de1-b410-7416b8d856ef",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Amir Beygzadeh <amiradelbeygzadeh@geotab.com>"
+    }
+  }
+}
